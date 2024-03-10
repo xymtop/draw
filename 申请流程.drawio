@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T10:58:59.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="LtdOwT_xhIqLdFgid2-J" version="24.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-10T11:00:00.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="BcstjT8Evy3FsPWb1hN0" version="24.0.4" type="github" pages="10">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="822" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -769,7 +769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4FWEMGWp45svjpnqWr_A" name="证明中心评论">
-    <mxGraphModel dx="939" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -831,8 +831,26 @@
         <mxCell id="6v249i2_fW5weF3uAhNt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6v249i2_fW5weF3uAhNt-44" target="6v249i2_fW5weF3uAhNt-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6v249i2_fW5weF3uAhNt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6v249i2_fW5weF3uAhNt-47" target="6v249i2_fW5weF3uAhNt-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6v249i2_fW5weF3uAhNt-47" value="构建评论数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="940" y="180" width="100" height="100" as="geometry" />
+          <mxGeometry x="900" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6v249i2_fW5weF3uAhNt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6v249i2_fW5weF3uAhNt-49" target="6v249i2_fW5weF3uAhNt-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6v249i2_fW5weF3uAhNt-49" value="计算评论结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6v249i2_fW5weF3uAhNt-51" value="发布评论" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6v249i2_fW5weF3uAhNt-54" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6v249i2_fW5weF3uAhNt-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6v249i2_fW5weF3uAhNt-51" target="6v249i2_fW5weF3uAhNt-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
