@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T09:08:20.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="lIDT6h-Nz09UMP6iEjoC" version="24.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-10T10:22:05.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="hFw_p5xcuu-sWWqXZxKO" version="24.0.4" type="github" pages="10">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="822" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -381,6 +381,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jlgile17abjXU29QrxVQ-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlgile17abjXU29QrxVQ-7" value="溯源类别" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SlEX6oJ1AkO9bzyO7VVt-2" value="开始溯源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SlEX6oJ1AkO9bzyO7VVt-4" value="获取产品信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SlEX6oJ1AkO9bzyO7VVt-6" value="获取证明中心信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SlEX6oJ1AkO9bzyO7VVt-8" value="获取AI预言机信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
