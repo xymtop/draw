@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T10:42:36.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="FCpeaId2QId6D-8Z2JN-" version="24.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-10T10:44:56.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="7rPZKptsdWrMGyJDymR_" version="24.0.4" type="github" pages="10">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="822" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -525,10 +525,43 @@
     </mxGraphModel>
   </diagram>
   <diagram id="voBiiTBXdskTe5Sz5sI4" name="个人信息管理">
-    <mxGraphModel dx="699" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QPJ8YMknTM06mfraepL6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QPJ8YMknTM06mfraepL6-2" target="QPJ8YMknTM06mfraepL6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="201" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-9" value="获取用户信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPJ8YMknTM06mfraepL6-43" target="QPJ8YMknTM06mfraepL6-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-43" value="修改信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="181" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPJ8YMknTM06mfraepL6-44" target="QPJ8YMknTM06mfraepL6-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-44" value="填充新信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-45" value="更新用户信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="181" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-46" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="930" y="201" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QPJ8YMknTM06mfraepL6-9" target="QPJ8YMknTM06mfraepL6-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPJ8YMknTM06mfraepL6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QPJ8YMknTM06mfraepL6-45" target="QPJ8YMknTM06mfraepL6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
