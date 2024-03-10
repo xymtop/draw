@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T07:50:48.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="BD2uYRzQBVsFqzIdwgNz" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:02:46.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="NPzRFBR0OqdaxSfIdpbu" version="24.0.4" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="699" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-1" target="tAjoGoM2ets_wBb8F3oO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-2" value="溯源数据提交" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-4" target="tAjoGoM2ets_wBb8F3oO-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAjoGoM2ets_wBb8F3oO-12">
+          <mxGeometry x="-0.2471" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-4" target="tAjoGoM2ets_wBb8F3oO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAjoGoM2ets_wBb8F3oO-13">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-4" value="证明中心是否有权证明" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-5" value="溯源数据证明" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-7" target="tAjoGoM2ets_wBb8F3oO-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="869.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-23" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAjoGoM2ets_wBb8F3oO-15">
+          <mxGeometry x="-0.2807" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-7" target="tAjoGoM2ets_wBb8F3oO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-7" value="是否符合证明要求" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-9" target="tAjoGoM2ets_wBb8F3oO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-9" value="溯源数据处理" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1000" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-2" target="tAjoGoM2ets_wBb8F3oO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-5" target="tAjoGoM2ets_wBb8F3oO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAjoGoM2ets_wBb8F3oO-14">
+          <mxGeometry x="-0.0235" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-18" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-24" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-25" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="840" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-26" value="下发证明" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-26" target="tAjoGoM2ets_wBb8F3oO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
