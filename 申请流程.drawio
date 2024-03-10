@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T08:39:49.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="O-0aZ4e0DDFWXzm0-lKL" version="24.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:53:51.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="M5nPZy6xyHNO0rfAN-CR" version="24.0.4" type="github" pages="10">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="822" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -328,6 +328,45 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGP0p1QRAb4VVhgXVx4K-1" target="QGP0p1QRAb4VVhgXVx4K-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGP0p1QRAb4VVhgXVx4K-2" target="QGP0p1QRAb4VVhgXVx4K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-2" value="填写产品信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-3" value="验证产品信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGP0p1QRAb4VVhgXVx4K-4" target="QGP0p1QRAb4VVhgXVx4K-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-4" value="产品信息是否完整" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGP0p1QRAb4VVhgXVx4K-5" target="QGP0p1QRAb4VVhgXVx4K-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-5" value="构建产品信息NFT" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-6" value="发布产品" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QGP0p1QRAb4VVhgXVx4K-3" target="QGP0p1QRAb4VVhgXVx4K-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-12" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGP0p1QRAb4VVhgXVx4K-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QGP0p1QRAb4VVhgXVx4K-4" target="QGP0p1QRAb4VVhgXVx4K-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
