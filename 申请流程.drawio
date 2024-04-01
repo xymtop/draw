@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T15:36:25.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="8LJ75OoRudbhaFENRRyj" version="24.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-04-01T15:37:30.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="6LM0HOt7p63rm13FUBsE" version="24.1.0" type="github" pages="11">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1105" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -16,22 +16,9 @@
         <mxCell id="tAjoGoM2ets_wBb8F3oO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tAjoGoM2ets_wBb8F3oO-4" target="tAjoGoM2ets_wBb8F3oO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAjoGoM2ets_wBb8F3oO-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tAjoGoM2ets_wBb8F3oO-32" vertex="1" connectable="0">
-          <mxGeometry x="-0.1859" y="-1" relative="1" as="geometry">
+        <mxCell id="foKnPiaDnhR555cea2oy-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAjoGoM2ets_wBb8F3oO-32">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="foKnPiaDnhR555cea2oy-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tAjoGoM2ets_wBb8F3oO-32">
-          <mxGeometry x="-0.2667" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="foKnPiaDnhR555cea2oy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAjoGoM2ets_wBb8F3oO-4" target="tAjoGoM2ets_wBb8F3oO-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="foKnPiaDnhR555cea2oy-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="foKnPiaDnhR555cea2oy-2">
-          <mxGeometry x="0.2171" y="-2" relative="1" as="geometry">
-            <mxPoint x="-10" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tAjoGoM2ets_wBb8F3oO-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;证明中心是否有权证明&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
@@ -87,13 +74,13 @@
         <mxCell id="tAjoGoM2ets_wBb8F3oO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tAjoGoM2ets_wBb8F3oO-34" target="tAjoGoM2ets_wBb8F3oO-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tAjoGoM2ets_wBb8F3oO-34" value="溯源数据处理" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;溯源数据处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="840" y="280" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tAjoGoM2ets_wBb8F3oO-35" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1110" y="300" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tAjoGoM2ets_wBb8F3oO-36" value="下发证明" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tAjoGoM2ets_wBb8F3oO-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;下发证明&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="980" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tAjoGoM2ets_wBb8F3oO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tAjoGoM2ets_wBb8F3oO-36" target="tAjoGoM2ets_wBb8F3oO-35" edge="1">
@@ -113,6 +100,11 @@
         <mxCell id="foKnPiaDnhR555cea2oy-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="430" y="454.7058823529412" as="geometry">
             <mxPoint x="262" y="-35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="foKnPiaDnhR555cea2oy-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510.00411764705876" y="330" as="geometry">
+            <mxPoint x="298" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
